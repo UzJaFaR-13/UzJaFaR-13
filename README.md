@@ -14,4 +14,7 @@ Skills: REACT / JS / HTML / CSS / SCSS
 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/invites/contact/?i=v5rc6otezexs&utm_content=5hbxdp6/)  
+
+
 
