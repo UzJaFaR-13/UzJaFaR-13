@@ -3,4 +3,15 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UzJaFaR-13)](https://github.com/anuraghazra/github-readme-stats)
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+### Hi there 👋, my name is UzJaFaR
+#### Design and Development
+👨‍💻 Developer and Coding 🌐 IT-The Future();
+
+Skills: REACT / JS / HTML / CSS / SCSS 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
