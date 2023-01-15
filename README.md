@@ -12,10 +12,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.youtube.com/c/simplified learner" target="blank"><img align="center" src="https://www.freepik.com/free-icon/instagram_14841632.htm#query=instagram%20icon&position=3&from_view=search&track=sph" alt="simplified learner" height="30" width="40" /></a>
-
-
+<a href="" >
+    <a href="" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="40" height="40" alt title     class="img-small">
+    </a>
+    <a href="https://www.instagram.com/invites/contact/?i=v5rc6otezexs&utm_content=5hbxdp6" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" width="40" height="40" alt title class="img-small">
+    </a>
+    <a href="https://t.me/UzJaFaR_13" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt title class="img-small">
+    </a>
+    <a href="https://www.facebook.com/jafar.norxurozov.3" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40" height="40" alt="Facebook free icon" title="Facebook free icon">
+    </a>
+    <a href="mailto:uzjafarc@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="40" height="40" alt title class="img-small">
+    </a>
+    <a href="https://github.com/UzJaFaR-13" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="40" height="40" alt title class="img-small">
+    </a>
+</a>
+</p>
+  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
