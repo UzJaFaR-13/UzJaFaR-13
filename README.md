@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/UzJaFaR-13/UzJaFaR-13/blob/main/Github-Banner.png)
 <h1 align="center">Hi 👋, I'm Jafar Norxurozov</h1>
 <h3 align="center">A passionate Software Engineer from Uzbekistan</h3>
 
