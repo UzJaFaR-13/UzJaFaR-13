@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://uzjafar-13.github.io/uz-share/](https://uzjafar-13.github.io/uz-share/)
+- 👨‍💻 All of my projects are available at <br> [https://uzjafar-13.github.io/uz-share/](https://uzjafar-13.github.io/uz-share/)
 
 - ⚡ Fun fact **I am funny😅**
 
