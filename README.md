@@ -1,10 +1,12 @@
 ![logo](https://github.com/UzJaFaR-13/UzJaFaR-13/blob/main/Github-Banner.png)
-<h1 align="center">Hi 👋, I'm Jafar Norxurozov</h1>
+<h1 align="center">Hi 👋 I'm Jafar Norkhurozov</h1>
 <h3 align="center">A passionate Software Engineer from Uzbekistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p> -->
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true)
 
 - 👨‍💻 All of my projects are available at <br> [https://uzjafar-13.github.io/uz-share/](https://uzjafar-13.github.io/uz-share/)
 
