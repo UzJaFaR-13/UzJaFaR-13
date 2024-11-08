@@ -15,7 +15,7 @@
     <a href="" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="40" height="40" alt title     class="img-small">
     </a>
-    <a href="https://www.instagram.com/invites/contact/?i=v5rc6otezexs&utm_content=5hbxdp6" target="_blank">
+    <a href="httpswww.instagram.com/invites/contact/?i=v5rc6otezexs&utm_content=5hbxdp6" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" width="40" height="40" alt title class="img-small">
     </a>
     <a href="https://t.me/UzJaFaR_13" target="_blank">
@@ -53,3 +53,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
