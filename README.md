@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,vim,js,vite,redis,redhat,postgres,pinia,symfony,react,vue,ae,arch,bash,bootstrap,css,figma,git,github,gitlab,gmail,gulp,html,htmx,ai,jest,mysql,netlify,nodejs,npm,ps,php,phpstorm,powershell,pr,sass,tailwind,jquery,stackoverflow,mongodb,ubuntu,kali,linux&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,vim,js,vite,redis,redhat,postgres,pinia,symfony,react,vue,ae,arch,bash,bootstrap,css,figma,git,github,gitlab,gmail,gulp,html,htmx,ai,jest,mysql,netlify,nodejs,npm,ps,php,phpstorm,powershell,pr,sass,tailwind,jquery,stackoverflow,mongodb,ubuntu,kali,debian,linux,windows&perline=15)](https://skillicons.dev)
 
 <h3 align="left">Support:</h3>
 <p><a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
