@@ -6,6 +6,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=UzJaFaR-13.UzJaFaR-13&format=true)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=UzJaFaR-13.UzJaFaR-13)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=UzJaFaR-13.UzJaFaR-13&left_text=My%20Page%20Visitors)
 
 - 👨‍💻 All of my projects are available at <br> [https://uzjafar-13.github.io/uz-share/](https://uzjafar-13.github.io/uz-share/)
 
