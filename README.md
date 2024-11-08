@@ -4,8 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=UzJaFaR-13.UzJaFaR-13&format=true)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=UzJaFaR-13.UzJaFaR-13)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=UzJaFaR-13.UzJaFaR-13&left_text=My%20Page%20Visitors)
 
 - 👨‍💻 All of my projects are available at <br> [https://uzjafar-13.github.io/uz-share/](https://uzjafar-13.github.io/uz-share/)
@@ -13,26 +11,23 @@
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670209.png" width="40" height="40" alt title     class="img-small">
-    </a>
-    <a href="httpswww.instagram.com/invites/contact/?i=v5rc6otezexs&utm_content=5hbxdp6" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/3670/3670125.png" width="40" height="40" alt title class="img-small">
-    </a>
-    <a href="https://t.me/UzJaFaR_13" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt title class="img-small">
-    </a>
-    <a href="https://www.facebook.com/jafar.norxurozov.3" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40" height="40" alt="Facebook free icon" title="Facebook free icon">
-    </a>
-    <a href="mailto:uzjafarc@gmail.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="40" height="40" alt title class="img-small">
-    </a>
-    <a href="https://github.com/UzJaFaR-13" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="40" height="40" alt title class="img-small">
-    </a>
-</p>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+  <a href="https://www.instagram.com/uzjafar_13?igsh=Y2g2MG93Z3dqdTY1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/UzJaFaR_13" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/21209988/jafar-norxurozov" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.facebook.com/jafar.norxurozov.3" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+</div>
   
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,5 +42,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
 
