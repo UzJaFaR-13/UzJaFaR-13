@@ -34,7 +34,8 @@
   
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=docker,vim,js,symfony,react,vue&perline=3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,vim,js,vite,redis,redhat,postgres,pinia,symfony,react,vue&perline=3)](https://skillicons.dev)
 
 <h3 align="left">Support:</h3>
 <p><a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
