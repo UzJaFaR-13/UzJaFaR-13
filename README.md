@@ -25,7 +25,7 @@
   </a>
   <a href="https://www.facebook.com/jafar.norxurozov.3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
+  </a href="mailto:uzjafarc@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
 </div>
   
