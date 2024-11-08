@@ -35,16 +35,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,vim,js,vite,redis,redhat,postgres,pinia,symfony,react,vue,ae,arch,bash,bootstrap,css,figma,git,github,gitlab,gmail,gulp,html,htmx,ai,jest,mysql,netlify,nodejs,npm,ps,php,phpstorm,powershell,pr,sass,tailwind,jquery,stackoverflow,mongodb,ubuntu,kali,debian,linux,windows&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,js,vite,vue,pinia,redis,postgres,mongodb,symfony,react,bash,powershell,vim,bootstrap,css,figma,git,github,gitlab,gmail,gulp,html,htmx,jest,mysql,netlify,nodejs,npm,php,phpstorm,ps,ae,pr,ai,sass,tailwind,jquery,stackoverflow,arch,ubuntu,kali,debian,linux,redhat,windows&perline=15)](https://skillicons.dev)
 
 <h3 align="left">Support:</h3>
 <p><a href=""> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
