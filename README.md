@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div align="left" style="list-style: none;">
+<div align="left">
   <a href="!#" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   </a>
@@ -31,7 +31,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"/>
   </a>
 </div>
-  
 
 <h3 align="left">Languages and Tools:</h3>
 
